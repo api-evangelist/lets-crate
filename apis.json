@@ -1,0 +1,45 @@
+{
+    "name": "Lets Crate",
+    "description": "<p>Crate makes sharing files with your family and friends ridiculously easy.<\/p>\n\n<p>Crate has tens of thousands of users.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/836_logo.png",
+    "tags": [
+        "api provider",
+        "file sharing",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lets-crate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Lets Crate",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/836_logo.png",
+            "humanURL": "http:\/\/letscrate.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lets-crate-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/crate"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/letscrate"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/letscrate.com\/api"
+        }
+    ]
+}
